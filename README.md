@@ -9,6 +9,7 @@ Supplementary material for the article **“Adoption of Large Language Models in
 ├── data/
 │   └── survey_data.xlsx      # Raw form responses
 │   └── analysis.xlsx         # Analysis done by researchers
+|   └── questionnarie.pdf     # Questionnaire used in the survey
 ├── scripts/
 │   └── analyze_survey.py     # Script that produces descriptive statistics in Markdown
 ├── outputs/

@@ -164,13 +164,4 @@
 | LLMs improve decision quality | 32 | 3.81 |
 | LLMs increase transparency | 32 | 3.62 |
 
-## Perceived risks of intensive use
-
-| Risk | Yes | Total | % Yes |
-| --- | ---: | ---: | ---: |
-| Reduced understanding of processes | 0 | 32 | 0.0% |
-| Reduced accountability | 0 | 32 | 0.0% |
-| Reduced trust | 0 | 32 | 0.0% |
-| Reduced motivation | 0 | 32 | 0.0% |
-
 _All percentages are calculated over the 70 consented respondents. Likert averages consider only non-missing answers._
